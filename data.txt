@@ -1,0 +1,7 @@
+ini contoh 
+baris pertama
+baris kedua
+baris ketiga
+
+ ini data dengan appending
+ 'D:\PHYTON\PHYTON 1 Road_traffic.mp4'

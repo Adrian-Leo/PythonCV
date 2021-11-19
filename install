@@ -1,0 +1,10 @@
+lokasi pyinstaller : C:\Users\lenovo\AppData\Local\Programs\Python\Python36\Scripts
+
+ C:\Users\lenovo\AppData\Local\Programs\Python\Python36\python.exe setup.py install : untuk setup
+
+C:\Users\lenovo\AppData\Local\Programs\Python\Python36\Scripts\pyinstaller --version : untuk cek versi
+
+D:\PyInstaller-3.6 : direktori pyinstaller
+
+C:\Users\lenovo\AppData\Local\Programs\Python\Python36\Scripts\pyinstaller -F namafile.py
+ + pyinstaller jika ingin mengeksekusi code

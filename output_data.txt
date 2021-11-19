@@ -1,0 +1,6 @@
+
+baris kedua
+baris ketiga
+baris pertama
+ini contoh
+ini data dengan appending
